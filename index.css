@@ -1,0 +1,11 @@
+#shutka {
+    display: flex;
+    justify-content: center ;
+    width: 100%;
+    margin-top: 100px;
+    height: 200px;
+}
+button {
+    display: flex;
+    justify-content: center;
+}
